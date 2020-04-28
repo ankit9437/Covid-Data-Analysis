@@ -1,2 +1,2 @@
 # Covid-Data-Analysis
-It is Used to predict and analyse covid cases in India.
+It is Used to predict and analyse covid cases in India. It uses Linear Regression to predict Total number of cases upto a given date. Total number of cases in various states is represented through bar graph. States included are: 'Kerala', 'Tamil Nadu', 'Karnataka', 'Delhi', 'Andhra Pradesh', 'Madhya Pradesh', 'Odisha', 'Punjab', 'Chandigarh', 'Jammu and Kashmir', 'Maharashtra', 'Gujarat', 'Rajasthan'. Total cases uptill 15th April is represented using line graph.
